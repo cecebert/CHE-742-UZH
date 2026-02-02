@@ -231,4 +231,4 @@ if uploaded_file is not None:
 else:
     st.info("Start by uploading an image file above.")
 st.divider()
-st.markdown('<p style="font-size:12px;">Developed by Cesare Berton, 2026</p>', unsafe_allow_html=True)
+st.markdown('<p style="font-size:12px;">Developed by Cesare Berton , 2026, all rights reserved</p>', unsafe_allow_html=True)
